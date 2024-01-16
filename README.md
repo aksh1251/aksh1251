@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akshaya
 - 👀 I’m interested in anything related to Web
-- 🌱 I’m currently learning Three.js
 
 
 <!---
